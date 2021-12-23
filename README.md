@@ -10,8 +10,8 @@
 ## 💼  My Skills
 
 ```javascript
+return {
     FrontEnd: {
-        HTML: ["Pug"],
         JavaScript: ["Vanilla", "JQuery", "Vue", "NuxtJS", "React"],
         CSS: ["SCSS", "SASS", "Bootstrap", "TailwindCSS"],
     },
