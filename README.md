@@ -11,11 +11,11 @@
 
 ```javascript
 return {
-    FrontEnd: {
-        JavaScript: ["Vanilla", "JQuery", "Vue", "NuxtJS", "React"],
+    frontEnd: {
+        Javacript: ["Vanilla", "Vue", "React"],
         CSS: ["SCSS", "SASS", "Bootstrap", "TailwindCSS"],
     },
-    BackEnd: {
+    backEnd: {
         PHP: ["Laravel", "Codeigniter"],
     }
 }
